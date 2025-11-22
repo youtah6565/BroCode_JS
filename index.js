@@ -1915,4 +1915,4 @@ task1();
 task2();
 task3();
 task4();
-console.log("all tasks    comlete");
+console.log("all tasks comlete");
